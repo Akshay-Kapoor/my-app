@@ -1,3 +1,13 @@
+Made a Super minimalistic Website to convert temperature in Celsius to fahrenheit!
+
+Still took me few hours to figure out the js, no matter I am noob 🙂
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
